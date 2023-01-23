@@ -17,7 +17,7 @@ h1, h2, h3, h4, p {
 }
 
 #bday-age {
-    background: #EFB0C9;
+    background: #454545;
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0px 10px 0px;
@@ -25,7 +25,7 @@ h1, h2, h3, h4, p {
 
 #bday-date {
     margin: 0;
-    background: #EFB0C9;
+    background: #454545;
     padding: 5px 10px;
     border-radius: 5px;
 }
